@@ -47,7 +47,7 @@
 <h2>Dependencies</h2>
 
 <p>
-  The QR Code Generator application does not require any external dependencies. It is built using standard web technologies, including HTML, CSS, and JavaScript.
+  The QR Code Generator application does not require any external dependencies. It is built using standard android technologies, including XML and JavaScript.
 </p>
 
 <h2>License</h2>
